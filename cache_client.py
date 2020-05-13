@@ -159,7 +159,8 @@ if __name__ == "__main__":
         for server in NODES   
     ]
     #consisprocess(clients)
-   # process(clients)
+    process(clients)
     #process_rv_hash(clients)
     #process_cons_hash(clients)
-    process_consis_hash(clients)
+    # process_consis_hash(clients)
+                
